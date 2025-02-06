@@ -35,8 +35,8 @@ Before you can start using the RAG Bot, make sure you have the following prerequ
 1. Clone this repository to your local machine.
 
     ```bash
-    git clone https://github.com/ZeusSama0001/RAG-chatbot.git
-    cd RAG-chatbot
+    git clone https://github.com/talhasiddique7/RAG-chatbot-using-Llama2.git
+    cd RAG chatbot using Llama2
     ```
 
 2. Create a Python virtual environment (optional but recommended):
@@ -71,7 +71,7 @@ To get started with the RAG Bot, you need to:
     ```bash
     chainlit run model.py
     ```
-   Before running the RAG chatbot, make sure to run `ingest.py` beforehand to create data for the vector database.
+   Before running the RAG chatbot, make sure to run `python ingest.py` beforehand to create data for the vector database.
 
 ## Usage
 
